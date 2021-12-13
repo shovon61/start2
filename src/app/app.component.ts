@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'start2';
+  show=true;
+  show2=true;
 }
